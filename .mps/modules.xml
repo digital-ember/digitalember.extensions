@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/bleX/bleX.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/bleX/sandbox/bleX.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/bleX.build/bleX.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
