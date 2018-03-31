@@ -11,7 +11,7 @@ Some examples, left the original editor projection, right the ones from "bleX".
 ![sample3](https://github.com/digital-ember/digitalember.extensions/blob/master/images/baseLangComparison3.png)
 
 # Current state
-Currently, it is just a collection of editor extensions that bugged me the most. It is meant to grow, so feel free to provide ideas and feedback on how the editors can be improved further. There are many editors I haven't touched yet.
+Currently, it is just a collection of editor extensions that address things that bugged me the most while reading and reviewing code in MPS. It is meant to grow, so feel free to provide ideas and feedback on how the editors can be improved further. There are many editors I haven't touched yet.
 
 Notice that is meant to be a "review-view" first, so I did not put any focus on fancy editor interactions (yet). If you want to edit your baseLanguage models with this editor switched on, you might experience some odd interaction-behavior.
 
